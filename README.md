@@ -1,2 +1,2 @@
 # Malariares2025
-After my first malaria publication "Eradicating Malaria in Africa: Potentials and Challenges of Vaccine Deployment" I was inspired to see eradication from another point of view (POV) by applying my bioinfomatics skillset, I need to see firsthand what is happening in the genome, and what is causing resistance?
+After my first malaria publication ["Eradicating Malaria in Africa: Potentials and Challenges of Vaccine Deployment"](https://bjbabs.org/index.php/bjbabs/article/view/318), it inspired me to contribute to malaria eradication from another point of view (POV), by applying my bioinfomatics skillset. I need to see firsthand what is happening in the genome, and what is causing resistance? Then how does my findings inform policy and decision making.
