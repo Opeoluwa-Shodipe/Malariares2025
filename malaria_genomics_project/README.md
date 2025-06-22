@@ -32,8 +32,8 @@ This project aims to identify and analyze genomic variants—such as SNPs, indel
 
 ### ✅ PHASE 1: Project Design
 - Define research questions on resistance-associated variants.
-- Select datasets from ENA, NCBI SRA, or MalariaGEN (e.g., Nigeria, Ghana, India).
-- Choose reference genome: *P. falciparum* 3D7 (PlasmoDB).
+- Select datasets from NCBI SRA (Location of Interest: Nigeria).
+- Choose reference genome: *P. falciparum* 3D7 (PlasmoDB- https://plasmodb.org/).
 
 ---
 
