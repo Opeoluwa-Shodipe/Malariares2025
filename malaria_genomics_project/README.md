@@ -46,3 +46,19 @@ fastq-dump --split-files SRR1234567
 # Download reference genome (FASTA + GFF)
 wget https://plasmodb.org/common/downloads/release-64/Pf3D7/fasta/data/PlasmoDB-64_Pf3D7_Genome.fasta
 wget https://plasmodb.org/common/downloads/release-64/Pf3D7/gff/data/PlasmoDB-64_Pf3D7.gff
+
+---
+
+### ✅ PHASE 3: Read Mapping & Variant Calling
+```
+
+# Run FastQC
+fastqc *.fastq
+
+# Trimming
+trimmomatic PE sample_R1.fastq sample_R2.fastq \
+sample_R1_paired.fq sample_R1_unpaired.fq \
+sample_R2_paired.fq sample_R2_unpaired.fq \
+ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:20 MINLEN:50
+
+
