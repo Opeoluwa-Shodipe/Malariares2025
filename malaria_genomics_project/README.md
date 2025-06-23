@@ -45,13 +45,12 @@ fastq-dump --split-files SRR1234567
 
 # Download reference genome (FASTA + GFF)
 wget https://plasmodb.org/common/downloads/release-64/Pf3D7/fasta/data/PlasmoDB-64_Pf3D7_Genome.fasta
-wget https://plasmodb.org/common/downloads/release-64/Pf3D7/gff/data/PlasmoDB-64_Pf3D7.gff
-
+wget https://plasmodb.org/common/downloads/release-64/Pf3D7/gff/data/PlasmoDB-64_Pf3D7.gff.
 ---
 
-### ✅ PHASE 3: Read Mapping & Variant Calling
 ```
-
+### ✅ PHASE 3: Read Mapping & Variant Calling
+```...
 # Run FastQC
 fastqc *.fastq
 
