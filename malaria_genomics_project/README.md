@@ -59,5 +59,25 @@ trimmomatic PE sample_R1.fastq sample_R2.fastq \
 sample_R1_paired.fq sample_R1_unpaired.fq \
 sample_R2_paired.fq sample_R2_unpaired.fq \
 ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:20 MINLEN:50
+---
+
+```
+### ✅ PHASE 4: Read Mapping & Variant Calling
+```...
+# Index reference genome
+bwa index Pf3D7.fasta
+
+# Align reads
+bwa mem Pf3D7.fasta sample_R1_paired.fq sample_R2_paired.fq > sample.sam
+
+# Convert to BAM, sort, and index
+samtools view -bS sample.sam | samtools sort -o sample.sorted.bam
+samtools index sample.sorted.bam
+
+# Variant calling
+gatk HaplotypeCaller -R Pf3D7.fasta -I sample.sorted.bam -O sample.g.vcf -ERC GVCF
+
+# Joint genotyping
+gatk GenotypeGVCFs -R Pf3D7.fasta -V gendb://your_database -O cohort.vcf
 
 
