@@ -80,4 +80,23 @@ gatk HaplotypeCaller -R Pf3D7.fasta -I sample.sorted.bam -O sample.g.vcf -ERC GV
 # Joint genotyping
 gatk GenotypeGVCFs -R Pf3D7.fasta -V gendb://your_database -O cohort.vcf
 
+```
+### ✅ PHASE 5: Variant Filtering & Annotation
+```...
+# Filter variants
+gatk VariantFiltration -V cohort.vcf \
+--filter-expression "QD < 2.0 || FS > 60.0" \
+--filter-name "basic_snp_filter" \
+-O cohort.filtered.vcf
 
+# Annotate
+snpEff Pf3D7 cohort.filtered.vcf > cohort.ann.vcf
+
+```
+### ✅ PHASE 6: Comparative & Population Analysis
+```...
+# Calculate allele frequencies
+bcftools query -f '%CHROM\t%POS\t%REF\t%ALT[\t%SAMPLE=%GT]\n' cohort.ann.vcf
+
+# Group-wise frequency analysis using Plink
+plink --vcf cohort.filtered.vcf --freq --within groups.txt --out freq_analysis
