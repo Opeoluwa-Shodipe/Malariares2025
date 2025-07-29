@@ -1,5 +1,6 @@
 # Malaria and Antimalarial Drug Resistance
 
+## INTRODUCTION
 Malaria is a blood-borne protozoan parasitic infection spread by female *Anopheles* mosquitos, resulting in significant morbidity and fatality rates (Kweyamba *et al.*, 2019). Malaria control in Sub-Saharan Africa (SSA) remains challenging, despite ongoing efforts. In 2020, 85 endemic countries reported 241 million malaria cases, up from 227 million in 2019. The bulk of these cases occurred in the World Health Organization's (WHO) African Region. Malaria deaths increased from 558,000 to 627,000 (Chemwor *et al.*, 2023). *Plasmodium falciparum, P. vivax, P. malariae, P. ovale*, and *P. knowlesi* are the five species of *Plasmodium* that may cause malaria in humans.
 
 Approximately 94% of these cases were in the WHO African Region, where *Plasmodium falciparum* was the primary malaria species. In 2023, there were a projected 597,000 malaria-related fatalities (World Health Organization, 2024). In order to effectively treat patients with malaria, *Plasmodium* parasites must be diagnosed, and after a diagnosis, effective antimalarial medications must be administered (World Health Organization, 2023; Quan *et al.*, 2020).
