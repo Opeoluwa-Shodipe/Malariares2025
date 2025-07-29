@@ -18,44 +18,38 @@ In Nigeria, the nation with the largest number of malaria cases and fatalities a
 
 ## References
 
-- Ashley, E. A., Dhorda, M., Fairhurst, R. M., Amaratunga, C., Lim, P., Suon, S., Dondorp, A. M., Anderson, J. M., Lwin, K. M., Htut, Y., & Tun, K. M. (2014). Spread of artemisinin resistance in *Plasmodium falciparum* malaria. *New England Journal of Medicine, 371*(5), 411–423. https://doi.org/10.1056/NEJMoa1314981
+Ajogbasile, F. V., Oluniyi, P. E., Kayode, A. T., Akano, K. O., Adegboyega, B. B., Philip, C., ... & Happi, C. T. (2022). Molecular profiling of the artemisinin resistance Kelch 13 gene in *Plasmodium falciparum* from Nigeria. *PLOS ONE*, 17(2), e0264548. https://doi.org/10.1371/journal.pone.0264548  
 
-- Azmi, W. A., Rizki, A. F. M., Djuardi, Y., Artika, I. M., & Siregar, J. E. (2023). Molecular insights into artemisinin resistance in *Plasmodium falciparum*: An updated review. *Infection, Genetics and Evolution, 112*, 105460. https://doi.org/10.1016/j.meegid.2022.105460
+Ashley EA, Dhorda M, Fairhurst RM, Amaratunga C, Lim P, Suon S, et al. Spread of artemisinin resistance in *Plasmodium falciparum* Malaria. *N Engl J Med*. 2014;371(5):411–23.  
 
-- Bhagavathula, A. S. (2020). Chloroquine-resistance malaria. *Journal of Advanced Scientific Research, 3*(3), 11–14.
+Bhagavathula, A. S. (2020). Chloroquine-Resistance Malaria. *Journal of Advanced Scientific Research*, 3(3), 11–14.  
 
-- Chemwor, G. C., Oduor, A. A., Otieno, D. F., Alaroker, F. O., Odera, J. S., & Wanzala, P. (2023). Therapeutic response to artemisinin combination therapies among individuals with *Plasmodium falciparum* single infection vs mixed *Plasmodium* species infections: A retrospective posthoc analysis in Kisumu County. *International Journal of Infectious Diseases, 132*, 17–25. https://doi.org/10.1016/j.ijid.2023.04.015
+Chemwor, G. C., Andagalu, B. M., Onyango, I. A., Opot, B. H., Okoth, R. O., Yedah, R. A., Juma, J. A., Mwakio, E. W., Wakoli, D. M., Amwoma, J. G., Cheruiyot, A. C., Juma, D. W., Ogutu, B. R., Egbo, T. E., Garges, E. C., Roth, A. L., Kamau, E., Watson, O. J., & Akala, H. M. (2023). Therapeutic response to artemisinin combination therapies among individuals with *Plasmodium falciparum* single infection vs mixed *Plasmodium* species infections: a retrospective posthoc analysis in Kisumu County. *International Journal of Infectious Diseases*, 132, 17–25. https://doi.org/10.1016/j.ijid.2023.04.008  
 
-- Daily, J. P. (2016). K13-propeller mutations and malaria resistance. *New England Journal of Medicine, 374*(25), 2492–2493. https://doi.org/10.1056/NEJMc1602250
+Fenta, M., & Kahaliw, W. (2019). Evaluation of Antimalarial Activity of Hydromethanolic Crude Extract and Solvent Fractions of the Leaves of *Nuxia congesta* R. Br. Ex Fresen (Buddlejaceae) in *Plasmodium berghei* Infected Mice. *Journal of Experimental Pharmacology*, 20119(11), 121–134.  
 
-- Fenta, M., & Kahaliw, W. (2019). Evaluation of antimalarial activity of hydromethanolic crude extract and solvent fractions of *Nuxia congesta* leaves in *Plasmodium berghei*-infected mice. *Journal of Experimental Pharmacology, 11*, 121–134. https://doi.org/10.2147/JEP.S198689
+Gupta H, Macete E, Bulo H, Salvador C, Warsame M, Carvalho E, et al. Drug-resistant polymorphisms and copy numbers in *Plasmodium falciparum*, Mozambique, 2015. *Emerg Infect Dis*. 2017;24(1):40–8.  
 
-- Gupta, H., Raman, J., Beshir, K. B., Gatton, M. L., Govere, J., Moonasar, D., & Sutherland, C. J. (2017). Drug-resistant polymorphisms and copy numbers in *Plasmodium falciparum*, Mozambique, 2015. *Emerging Infectious Diseases, 24*(1), 40–48. https://doi.org/10.3201/eid2401.170393
+Kweyamba, P. A., Zofou, D., Efange, N., Assob, J. C. N., & Kitau, J. (2019). In vitro and in vivo studies on anti‑malarial activity of *Commiphora africana* and *Dichrostachys cinerea* used by the Maasai in Arusha region, Tanzania. *Malaria Journal*, 18(119), 1–6. https://doi.org/10.1186/s12936-019-2752-8  
 
-- Kweyamba, P. A., Ongecha, J. M., Mbaria, J. M., Wamunyokoli, F., & Gikunju, J. K. (2019). Anti-malarial activity of *Commiphora africana* and *Dichrostachys cinerea*. *Malaria Journal, 18*, Article 119. https://doi.org/10.1186/s12936-019-2764-9
+Megersa, D. M., & Luo, X. S. (2025). Effects of climate change on malaria risk to human health: A review. *Atmosphere*, 16(1), 71. https://doi.org/10.3390/atmos16010071  
 
-- Mbengue, A., Bhattacharjee, S., Pandharkar, T., Liu, H., Estiu, G., Stahelin, R. V., Rizk, S. S., Njimoh, D. L., Ryan, Y., Chotivanich, K., Nguon, C., Ghorbal, M., Lopez-Rubio, J. J., Pfrender, M. E., Emrich, S., Mohandas, N., Dondorp, A. M., & Haldar, K. (2015). A molecular mechanism of artemisinin resistance in *Plasmodium falciparum* malaria. *Nature, 520*(7549), 683–687. https://doi.org/10.1038/nature14412
+Mendoza, Y. G., Garric, E., Leach, A., Lievens, M., Ofori-Anyinam, O., Pirçon, J. Y., ... & Schuerman, L. (2019). Safety profile of the RTS,S/AS01 malaria vaccine in infants and children: Additional data from a phase III randomized controlled trial in sub-Saharan Africa. *Human Vaccines & Immunotherapeutics*, 15(12), 2864–2872. https://doi.org/10.1080/21645515.2019.1627162  
 
-- Ménard, D., Khim, N., Beghain, J., Adegnika, A. A., Shafiul-Alam, M., Amodu, O., Rahim-Awab, G., Barnadas, C., Berry, A., Boum, Y., Bustos, M. D., Cao, J., Chen, J. H., Collet, L., Cui, L., Thakur, G. D., Takala-Harrison, S., ... Ariey, F. (2016). A worldwide map of *Plasmodium falciparum* K13-propeller polymorphisms. *New England Journal of Medicine, 374*(25), 2453–2464. https://doi.org/10.1056/NEJMoa1513137
+Molina-de La Fuente I, Sagrado Benito MJ, Ousley J, Gisbert FDB, García L, González V, et al. Screening for K13-Propeller Mutations Associated with Artemisinin Resistance in *Plasmodium falciparum* in Yambio County (Western Equatoria State, South Sudan). *Am J Trop Med Hyg*. 2023;109(5):1072–6.  
 
-- Molina-de la Fuente, I., Yao, A. K., Rosanas-Urgell, A., Jukes, M., & Mårtensson, A. (2023). Screening for K13-propeller mutations in *Plasmodium falciparum* in South Sudan. *American Journal of Tropical Medicine and Hygiene, 109*(5), 1072–1076. https://doi.org/10.4269/ajtmh.23-0046
+Quan H, Igbasi U, Oyibo W, Omilabu S, Chen SB, Shen HM, et al. High multiple mutations of *Plasmodium falciparum*-resistant genotypes to sulphadoxine-pyrimethamine in Lagos, Nigeria. *Infect Dis Poverty*. 2020;9(1):91.  
 
-- Quan, H., Odugbemi, B. A., Ibekwe, P. C., Bello, T. K., Fagade, O. E., & Adeneye, A. K. (2020). High multiple mutations of *Plasmodium falciparum*-resistant genotypes to sulphadoxine-pyrimethamine in Lagos, Nigeria. *Infectious Diseases of Poverty, 9*(1), 91. https://doi.org/10.1186/s40249-020-00724-y
+Taylor SM, Parobek CM, DeConti DK, Kayentao K, Coulibaly SO, Greenwood BM, et al. Absence of putative artemisinin resistance mutations among *Plasmodium falciparum* in Sub-Saharan Africa: a molecular epidemiologic study. *J Infect Dis*. 2015;211(5):680–8.  
 
-- Su, X.-Z., Zhang, M., & Miao, J. (2019). *Plasmodium* genomics and genetics: New insights into malaria. *Clinical Microbiology Reviews, 32*(4), e00019-19. https://doi.org/10.1128/CMR.00019-19
+Uwimana A, Legrand E, Stokes BH, Ndikumana JLM, Warsame M, Umulisa N, et al. Emergence and clonal expansion of in vitro artemisinin-resistant *Plasmodium falciparum kelch13* R561H mutant parasites in Rwanda. *Nat Med*. 2020;26(10):1602–8.  
 
-- Taylor, S. M., Parobek, C. M., DeConti, D. K., Kayentao, K., Coulibaly, S. O., Greenwood, B. M., Tagbor, H., Williams, J., Oduro, A. R., Bojang, K., & Meshnick, S. R. (2015). Absence of artemisinin resistance mutations among *Plasmodium falciparum* in Sub-Saharan Africa. *Journal of Infectious Diseases, 211*(5), 680–688. https://doi.org/10.1093/infdis/jiu467
+*World malaria report 2022*. Geneva: World Health Organization; 2022. Licence: CC BY-NC-SA 3.0 IGO.  
 
-- Tola, M., Ajibaye, O., Oboh, M. A., Idowu, E. T., & Folarin, O. A. (2020). Molecular detection of drug-resistant polymorphisms in *Plasmodium falciparum* isolates from Southwest Nigeria. *BMC Research Notes, 13*(1), 497. https://doi.org/10.1186/s13104-020-05339-6
+*World malaria report 2023*. Geneva: World Health Organization; 2023. Licence: CC BY-NC-SA 3.0 IGO.  
 
-- Uwimana, A., Legrand, E., Stokes, B. H., Ndikumana, J.-L. M., Warsame, M., Umulisa, N., Ngamije, D., Munyaneza, T., Mazarati, J. B., Munguti, K., Campagne, P., Criscuolo, A., Ariey, F., Murindahabi, M., Ringwald, P., Fidock, D. A., & Menard, D. (2020). Emergence and expansion of in vitro artemisinin-resistant *Plasmodium falciparum* in Rwanda. *Nature Medicine, 26*(10), 1602–1608. https://doi.org/10.1038/s41591-020-1005-2
+*World malaria report 2024: addressing inequity in the global malaria response*. Geneva: World Health Organization; 2024. Licence: CC BY-NC-SA 3.0 IGO.  
 
-- World Health Organization. (2022). *World malaria report 2022*. World Health Organization. https://www.who.int/publications/i/item/9789240064898
+World Health Organization. (2020). *Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010–2019)*. World Health Organization. https://www.who.int/publications/i/item/9789240012813  
 
-- World Health Organization. (2023). *World malaria report 2023*. World Health Organization. https://www.who.int/publications/i/item/9789240077485
-
-- World Health Organization. (2024). *World malaria report 2024: Addressing inequity in the global malaria response*. World Health Organization. https://www.who.int/publications/i/item/9789240089440
-
-- World Health Organization. (2023). *WHO guidelines for malaria, 16 October 2023* (WHO/UCN/GMP/2023.01 Rev.1). World Health Organization. https://www.who.int/publications/i/item/WHO-UCN-GMP-2023.01
-
-- World Health Organization. (2024). *Malaria: Artemisinin partial resistance*. https://www.who.int/news-room/questions-and-answers/item/artemisinin-resistance
+WHO guidelines for malaria, 16 October 2023. Geneva: World Health Organization; 2023 (WHO/UCN/GMP/2023.01 Rev.1). License: CC BY-NC-SA 3.0 IGO.  
