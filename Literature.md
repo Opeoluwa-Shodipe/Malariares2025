@@ -14,10 +14,10 @@ A number of point mutations in the *pfk13* gene (F446I, N458Y, C469Y, M476I, Y49
 
 In Nigeria, the nation with the largest number of malaria cases and fatalities among malaria endemic countries, this study may raise concerns about artemisinin resistance (World Health Organization, 2023). Furthermore, 13 mutations were found in the same or nearby location to confirm or suggest *pfk13* markers. Ongoing research is essential to monitor these polymorphisms, as their presence may indicate genomic instability and could compromise the efficacy of artemisinin derivatives (Taylor et al., 2015; Molina-de la Fuente et al., 2023).
 
-
-#LITERATURE REVIEW
-
 ---
+
+
+# LITERATURE REVIEW
 
 ## References
 
