@@ -136,6 +136,10 @@ p1 <- DimPlot(
 ggsave("Fig1_UMAP_CellTypes.png", p1, width = 10, height = 8, dpi = 300)
 ggsave("Fig1_UMAP_CellTypes.pdf", p1, width = 10, height = 8)
 
+### FIGURE 1 — UMAP Cell Type Annotations
+
+![UMAP showing cell type annotations](images/Fig1_UMAP_CellTypes.png)
+
 # =============================================================================
 # FIGURE 2: UMAP Split by Infection Status
 # =============================================================================
