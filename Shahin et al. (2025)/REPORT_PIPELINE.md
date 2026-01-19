@@ -285,7 +285,7 @@ cat("\n=== Analysis Complete ===\n")
 
 ![PCA showing monocyte subsets](Images/Fig3_PCA_Monocytes.png)
 
-### FIGURE 5: Heatmap of Top DEGs (CD14+ Monocytes)
+### FIGURE 5: Heatmap of Top DEGs (CD14+/CD16+ Monocytes)
 
 ![Heatmap showing top DEGs](Images/Heatmap_CD14_Mono.png)
 
