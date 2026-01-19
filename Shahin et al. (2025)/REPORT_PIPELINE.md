@@ -281,6 +281,16 @@ cat("\n=== Analysis Complete ===\n")
 
 ![UMAP showing cell type annotations](Images/Fig1_UMAP_CellTypes.png)
 
+### FIGURE 3: PCA of Monocyte Subsets
+
+![PCA showing monocyte subsets](Images/Fig3_PCA_Monocytes.png)
+
+### FIGURE 5: Heatmap of Top DEGs (CD14+ Monocytes)
+
+![Heatmap showing top DEGs](Images/Heatmap_CD14_Mono.png)
+
+![Heatmap showing top DEGs](Images/Heatmap_CD16_Mono.png)
+
 ## 📚 Reference
 
 Shahin et al. (2025).  
