@@ -279,7 +279,7 @@ cat("\n=== Analysis Complete ===\n")
 
 ### FIGURE 1 — UMAP Cell Type Annotations
 
-![UMAP showing cell type annotations](images/Fig1_UMAP_CellTypes.png)
+![UMAP showing cell type annotations](Images/Fig1_UMAP_CellTypes.png)
 
 ## 📚 Reference
 
