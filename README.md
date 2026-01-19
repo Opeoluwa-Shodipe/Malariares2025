@@ -1,5 +1,4 @@
-# 🧬 Systems Immunology of Malaria  
-## Replication of Single-cell Transcriptomics Revealing Inter-ethnic Variation in Immune Response to *Plasmodium falciparum*
+# Replication of Single-cell Transcriptomics Revealing Inter-ethnic Variation in Immune Response to *Plasmodium falciparum*
 
 This repository contains a **full replication analysis** of the study:
 
