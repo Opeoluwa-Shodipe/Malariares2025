@@ -97,14 +97,3 @@ This work highlights how **systems immunology** and **population genomics** can:
 
 ---
 
-## 🧪 Reproducible Analysis Pipeline
-
-Below is the **complete R pipeline** used to generate publication-quality figures replicating the original study.
-
-> **Note:**  
-> The pipeline assumes a processed Seurat object (`MoFu_unfiltered.rds`) with metadata fields:
-> - `predicted.celltype.l2`
-> - `Ethnicity`
-> - `Infection`
-
----
